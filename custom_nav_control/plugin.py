@@ -30,6 +30,3 @@ class CustomNavControlConfig(PluginConfig):
     version = '1.0'
     author = 'Your Name'
     base_url = 'custom-nav-control'
-
-
-config = CustomNavControlConfig
