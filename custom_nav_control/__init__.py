@@ -1,3 +1,1 @@
-from .plugin import CustomNavControlConfig
-
-config = CustomNavControlConfig
+from .plugin import config
